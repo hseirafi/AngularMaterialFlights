@@ -1,0 +1,17 @@
+{
+  "name": "myApp",
+  "version": "*",
+  "authors": [
+    "hseirafi@gmail.com <hseirafi@gmail.com>"
+  ],
+  "description": "flights",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
