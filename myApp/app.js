@@ -1,7 +1,7 @@
 /**
  * Created by hass on 7/20/2015.
  */
-angular.module('Findflight', ['ngMaterial']).
+angular.module('getLostApp', ['ngMaterial']).
     controller('MainCtrl', function($rootScope, $scope, $mdToast, $animate, $http, $timeout, $q, $log) {
         'use strict';
         // Initialize the scope variables
